@@ -8,7 +8,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
  
   public static Map<Integer, Map<Integer, Integer>> pascalHash 
   = new HashMap<Integer,Map<Integer,Integer>>();
